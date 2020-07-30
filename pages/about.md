@@ -16,15 +16,11 @@ Donec quis tincidunt velit, at feugiat dui. Interdum et malesuada fames ac ante 
 
 This is a list:
 
-* Suspendisse
+* First item
 
-  gravida
+* Second item
 
-  varius
-
-  justo id
-
-  euismod
+* Third item
 
 ### This is an H3 heading
 
