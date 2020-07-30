@@ -3,8 +3,11 @@ layout: layouts/home.njk
 title: Home
 date: 2016-01-01T00:00:00.000Z
 permalink: /
+eleventyNavigation:
+  order: 0
+  key: Home
 ---
-# Welcome
+## Welcome
 
 This is a template for building a simple blog website with the [Eleventy static site generator](https://www.11ty.io), with deployment to [Netlify](https://www.netlify.com).
 
@@ -14,4 +17,4 @@ For more info on installation and usage, view the [project repo]({{ pkg.reposito
 
 Or click the button below to deploy your own copy of this project to Netlify.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/danurbanowicz/eleventy-netlify-boilerplate&stack=cms)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/derekhamm/dkhm-eleventy-netlifycms&stack=cms)
