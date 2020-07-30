@@ -28,7 +28,7 @@ header, main, footer {
 	display: grid;
 	grid-template-columns: 
 		1fr
-		repeat(12,minmax(.5em,2em))
+		repeat(12,minmax(.3em,2em))
 		1fr
 		;
 	grid-column-gap: 1.5em;
