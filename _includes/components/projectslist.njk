@@ -1,6 +1,7 @@
-<section>
+<section class="projects-list">
 	{% for project in projectslist | reverse %}
-		<article{% if project.url == url %} data-current="current item"{% endif %}>
+		<article {% if project.url == url %} data-current="current item"{% endif %}>
+			<img src="{{ project.data.thumbnail }}" />
 			<h3>
 				<a href="{{ project.url | url }}">
 					{% if project.data.title %}
@@ -15,16 +16,11 @@
 					{{ project.data.summary }}
 				</p>
 			{% endif %}
-			<p>
-				<time datetime="{{ project.date | machineDate }}">
-					<small>{{ project.date | readableDate }}</small>
-				</time>
-			</p>
 			{% if project.data.tags %}
 				<p>
 					{% for tag in project.data.tags %}
 		  			{%- if tag != "project" -%}
-		  				{% set tagUrl %}/tags/{{ tag }}/{% endset %}
+		  				{% set tagUrl %}/categories/{{ tag }}/{% endset %}
 		  			<a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
 		  			{%- endif -%}
 					{% endfor %}

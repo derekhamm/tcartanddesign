@@ -1,11 +1,13 @@
 import Post from "/admin/preview-templates/post.js";
 import Page from "/admin/preview-templates/page.js";
+import Project from "/admin/preview-templates/project.js";
 
 // Register the Post component as the preview for entries in the blog collection
 CMS.registerPreviewTemplate("blog", Post);
 CMS.registerPreviewTemplate("pages", Page);
+CMS.registerPreviewTemplate("portfolio", Project);
 
-CMS.registerPreviewStyle("/_includes/assets/css/inline.css");
+CMS.registerPreviewStyle("/_includes/assets/css/style.css");
 // Register any CSS file on the home page as a preview style
 fetch("/")
   .then(response => response.text())

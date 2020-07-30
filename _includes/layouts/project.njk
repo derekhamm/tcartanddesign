@@ -5,11 +5,7 @@ section: project
 
 <article>
   <h1>{{ title }}</h1>
-  <p>
-    <small>
-      <time datetime="{{ date | machineDate }}">{{ date | readableDate }}</time>
-    </small>
-  </p>
+  <img src="{{ thumbnail }}" />
 
   {{ layoutContent | safe }}
 
