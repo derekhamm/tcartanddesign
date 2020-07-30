@@ -1,5 +1,5 @@
 ---
-name: John Doe
-email: johndoe@example.com
-github: https://github.com/notjohndoe
+name: Derek Hamm
+email: hamm.derek@gmail.com
+github: derekhamm.com
 ---
