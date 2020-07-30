@@ -1,6 +1,6 @@
 ---
 layout: layouts/base.njk
-section: post
+section: project
 ---
 
 <article>
@@ -16,7 +16,7 @@ section: post
   {% if tags %}
     <p>
     {% for tag in tags %}
-      {%- if tag != "post" -%}
+      {%- if tag != "project" -%}
         {% set tagUrl %}/tags/{{ tag }}/{% endset %}
         <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
       {%- endif -%}
@@ -27,5 +27,5 @@ section: post
 </article>
 
 <nav>
-  <a href="{{ '/blog/' | url }}">← Blog index</a>
+  <a href="{{ '/portfolio/' | url }}">← Portfolio index</a>
 </nav>
