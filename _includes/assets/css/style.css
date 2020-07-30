@@ -26,7 +26,7 @@ body {
 		repeat(12,minmax(.5em,2em))
 		1fr
 		;
-	grid-column-gap: 3%;
+	grid-column-gap: 1.5em;
 	background-color: var(--background);
 }
 
@@ -201,6 +201,6 @@ button {
 	.projects-list {
 		display: grid;
 		grid-template-columns: repeat(2,1fr);
-		grid-column-gap: 3%;
+		grid-column-gap: 1.5em;
 	}
 }
