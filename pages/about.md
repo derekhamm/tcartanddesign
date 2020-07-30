@@ -1,32 +1,47 @@
 ---
-title: About us
+title: Page
 date: 2017-01-01T00:00:00.000Z
-permalink: /about/index.html
+permalink: /page/index.html
 eleventyNavigation:
-  key: About
+  key: Page
   order: 1
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse fermentum sodales sagittis. Pellentesque blandit ligula ipsum, eu viverra velit iaculis eu. Maecenas at molestie dolor. Morbi quis nisi vel augue condimentum sodales accumsan eget diam. Quisque lacinia sit amet lorem nec efficitur. Nulla vitae justo id nunc malesuada mattis vitae ut nulla.
 
-Add a few line breaks in here to test:-
-Capitalize  
-on  
-low  
-hanging  
-fruit  
+![Sample image.](/static/img/bendsnearlinwood3x5-wc-2015-web.jpg "Sample image.")
 
-## Our services
+## This is an H2 heading
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Donec quis tincidunt velit, at feugiat dui. Interdum et malesuada fames ac ante ipsum primis in faucibus. Quisque quis mi sem. Sed tempor efficitur aliquet. Vestibulum risus dolor, tincidunt vehicula sodales vel, faucibus et lectus. Vivamus tempor est ac tellus dapibus, eu fermentum eros posuere. 
 
-### Blue-sky thinking
+This is a list:
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+* Suspendisse
 
-#### Management frameworks
+  gravida
 
-Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+  varius
 
-##### Regulatory convergence
+  justo id
 
-Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+  euismod
+
+### This is an H3 heading
+
+Aliquam odio enim, semper ac hendrerit ut, porttitor a ipsum. Curabitur neque turpis, imperdiet nec aliquam et, faucibus id massa. Aliquam erat volutpat. Nam a quam turpis. Ut id bibendum ex. In hac habitasse platea dictumst. Duis interdum, nulla ac fringilla blandit, velit tellus scelerisque massa, quis interdum ligula ligula a ipsum. Morbi maximus tellus dapibus odio dignissim mattis. Duis accumsan ornare ex eget condimentum. Morbi facilisis cursus quam eget dictum.
+
+> This is a blockquote. Ut id bibendum ex. In hac habitasse platea dictumst. Duis interdum, nulla ac fringilla blandit, velit tellus scelerisque massa, quis interdum ligula ligula a ipsum.
+
+#### This is an H4 heading
+
+Ut porttitor elit at leo pretium fringilla. Nam convallis vulputate massa, sed hendrerit tellus imperdiet a. Integer elementum faucibus venenatis. Donec libero mi, aliquet non ligula eget, lobortis molestie sapien. Quisque id nisl in sem tempus pharetra et quis nisi. Sed **sagittis nisi** sit amet consectetur aliquet. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. 
+
+##### This is an H5 heading
+
+Nam et luctus nisi, vel vehicula felis. Maecenas vel ligula quam. Nam et lorem diam. Etiam mattis arcu id imperdiet viverra. Aliquam *eu sapien nec orci* pharetra mattis. Mauris eu posuere justo. Phasellus sed risus lectus. Vivamus ultricies ullamcorper ex id pellentesque. Mauris purus justo, maximus id felis ut, vulputate convallis nulla. Ut quis blandit est. Quisque eget eros quis neque sodales vehicula non ut massa. Pellentesque urna leo, mollis eu ipsum rutrum, euismod tristique nibh. Proin vestibulum libero sit amet mollis convallis. Phasellus non turpis id mi pellentesque cursus.
+
+###### This is an H6 heading
+
+Nulla laoreet feugiat quam. Donec a ex in odio tristique porttitor at ut sem. Vestibulum a iaculis augue, feugiat tincidunt ipsum. Ut varius ligula quis elementum fermentum. Sed volutpat mollis tortor quis semper. Aliquam vel tristique augue. Mauris euismod dui tristique augue sollicitudin, eu blandit massa mattis. 
+
+`This is a line of code`
