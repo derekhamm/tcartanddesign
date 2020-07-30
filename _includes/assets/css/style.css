@@ -21,16 +21,20 @@ body {
 	display: grid;
 	height: 100vh;
 	grid-template-rows: auto 1fr auto;
+	background-color: var(--background);
+}
+
+header, main, footer {
+	display: grid;
 	grid-template-columns: 
 		1fr
 		repeat(12,minmax(.5em,2em))
 		1fr
 		;
 	grid-column-gap: 1.5em;
-	background-color: var(--background);
 }
 
-header, main, footer {
+header em, nav, .content, small, .projects-list, .posts-list {
 	grid-column: 2 / span 12;
 }
 
