@@ -27,11 +27,11 @@ body {
 header, main, footer {
 	display: grid;
 	grid-template-columns: 
-		minmax(1em,1fr)
-		repeat(12,minmax(.3em,1.8em))
-		minmax(1em,1fr)
+		minmax(.75em,1fr)
+		repeat(12,minmax(.3em,1.5em))
+		minmax(.75em,1fr)
 		;
-	grid-column-gap: 1.5em;
+	grid-column-gap: 3%;
 }
 
 header em, nav, .content, small, .projects-list, .posts-list {
