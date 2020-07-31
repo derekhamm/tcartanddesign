@@ -1,14 +1,13 @@
 ---
-title: This is my fourth post
+title: Fourth Post
 date: 2017-02-03T00:00:00.000Z
 author: John Doe
-summary: Why contemplating our mortality can be a powerful catalyst for change
+summary: Post description.
 tags:
-  - environment
-  - politics
+  - Tag
 ---
-Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor pulvinar arcu, sit amet mattis felis tristique at. Integer venenatis molestie sem non mattis. Fusce vel convallis dui. Aliquam erat volutpat. Nulla vel orci porttitor, malesuada est sit amet, ultrices nisl. Nulla nunc urna, elementum eu velit placerat, mattis laoreet lacus. Donec consequat nibh et rutrum tristique. Maecenas varius turpis quis ante gravida, eget rhoncus nisi lobortis. Nam fermentum at augue eu suscipit. In maximus, orci ac consectetur vestibulum, sem quam commodo lorem, ut fringilla urna augue ac lectus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent dignissim lacus nisl, id tempor nibh sodales quis. Fusce massa justo, porta vel blandit et, dictum nec diam.
 
-![A sample inlined image](https://source.unsplash.com/random/600x400)
+Donec neque quam, sodales ut diam sit amet, scelerisque bibendum mauris. Suspendisse eros tortor, lacinia eu facilisis a, mollis non nisi. Vivamus ante felis, pellentesque id magna efficitur, consequat sodales eros. Sed lectus ligula, congue eget bibendum eget, bibendum quis lacus. Nam ultricies porttitor velit at consequat. Curabitur eu magna id nunc ultrices convallis accumsan eget libero. Nunc ornare sapien ac nulla interdum, id sollicitudin urna molestie. Sed tristique, eros nec pretium fermentum, quam odio tristique magna, sed cursus erat sem vitae dui.
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nulla facilisi. Vivamus ultricies massa urna, et maximus enim venenatis sed. Quisque venenatis malesuada erat, eget consectetur lectus volutpat et. In ut leo est. In ornare risus enim, a dignissim ipsum luctus in. Mauris fringilla nisl aliquam nisl tempor consequat. In hac habitasse platea dictumst.
