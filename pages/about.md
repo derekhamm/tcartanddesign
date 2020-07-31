@@ -8,7 +8,7 @@ eleventyNavigation:
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse fermentum sodales sagittis. Pellentesque blandit ligula ipsum, eu viverra velit iaculis eu. Maecenas at molestie dolor. Morbi quis nisi vel augue condimentum sodales accumsan eget diam. Quisque lacinia sit amet lorem nec efficitur. Nulla vitae justo id nunc malesuada mattis vitae ut nulla.
 
-![Sample image.](/static/img/bendsnearlinwood3x5-wc-2015-web.jpg "Sample image.")
+![Sample image.](/static/img/bendsnearlinwood3x5-wc-2015-web.jpg "Sample image.")*Sample image*
 
 ## This is an H2 heading
 
