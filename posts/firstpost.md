@@ -1,27 +1,13 @@
 ---
-title: This is my first post
+title: First Post
 date: 2015-01-01T00:00:00.000Z
 author: John Appleseed
-summary: Why contemplating our mortality can be a powerful catalyst for change
+summary: Post description.
 tags:
-  - tech
-  - environment
-  - politics
-  - sport
+  - Tag
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor pulvinar arcu, sit amet mattis felis tristique at. Integer venenatis molestie sem non mattis. Fusce vel convallis dui. Aliquam erat volutpat. Nulla vel orci porttitor, malesuada est sit amet, ultrices nisl. Nulla nunc urna, elementum eu velit placerat, mattis laoreet lacus. Donec consequat nibh et rutrum tristique. Maecenas varius turpis quis ante gravida, eget rhoncus nisi lobortis. Nam fermentum at augue eu suscipit. In maximus, orci ac consectetur vestibulum, sem quam commodo lorem, ut fringilla urna augue ac lectus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent dignissim lacus nisl, id tempor nibh sodales quis. Fusce massa justo, porta vel blandit et, dictum nec diam.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+Donec neque quam, sodales ut diam sit amet, scelerisque bibendum mauris. Suspendisse eros tortor, lacinia eu facilisis a, mollis non nisi. Vivamus ante felis, pellentesque id magna efficitur, consequat sodales eros. Sed lectus ligula, congue eget bibendum eget, bibendum quis lacus. Nam ultricies porttitor velit at consequat. Curabitur eu magna id nunc ultrices convallis accumsan eget libero. Nunc ornare sapien ac nulla interdum, id sollicitudin urna molestie. Sed tristique, eros nec pretium fermentum, quam odio tristique magna, sed cursus erat sem vitae dui.
 
-## Section Header
-
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
-
-``` text/2-3
-// this is a command
-function myCommand() {
-	let counter = 0;
-	counter++;
-}
-```
-Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nulla facilisi. Vivamus ultricies massa urna, et maximus enim venenatis sed. Quisque venenatis malesuada erat, eget consectetur lectus volutpat et. In ut leo est. In ornare risus enim, a dignissim ipsum luctus in. Mauris fringilla nisl aliquam nisl tempor consequat. In hac habitasse platea dictumst.
