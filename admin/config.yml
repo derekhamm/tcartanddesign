@@ -15,6 +15,7 @@ collections:
   # Portfolio projects
   - name: "portfolio" # Used in routes, e.g., /admin/collections/portfolio
     label: "Projects" # Used in the UI
+    label_singular: "Project"
     folder: "projects" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
@@ -28,6 +29,7 @@ collections:
   # Blog posts
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
     label: "Posts" # Used in the UI
+    label_singular: "Post"
     folder: "posts" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
@@ -40,15 +42,8 @@ collections:
   # Pages e.g. About
   - name: "pages"
     label: "Pages"
+    label_singular: "Page"
     folder: "pages"
-    files:
-      - name: "home"
-        label: "Home"
-        delete: false
-        file: "src/pages/home.md"
-        slug: "{{slug}}"
-        fields:
-          - { label: "Banner", name: "banner", widget: "image" }
     create: true # Change to true to allow editors to create new pages
     slug: "{{slug}}"
     fields:
@@ -61,4 +56,5 @@ collections:
         fields:
           - { label: "Key", name: "key", widget: "string" }
           - { label: "Order", name: "order", widget: "number", default: 0 }
+      - { label: "Banner", name: "banner", widget: "image" }
       - { label: "Body", name: "body", widget: "markdown" }
