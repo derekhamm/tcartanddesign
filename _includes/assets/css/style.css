@@ -34,7 +34,7 @@ header, main, footer {
 	grid-column-gap: 3%;
 }
 
-header em, nav, .content, small, .projects-list, .posts-list {
+header em, nav, .content, small, form, .projects-list, .posts-list {
 	grid-column: 2 / span 12;
 }
 
@@ -204,6 +204,10 @@ button {
 	background-color: var(--primary);
 	color: var(--secondary);
 	cursor: pointer;
+}
+
+footer {
+	background: var(--secondary);
 }
 
 @media screen and (min-width:768px) {
