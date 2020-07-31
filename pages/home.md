@@ -7,6 +7,7 @@ permalink: /
 eleventyNavigation:
   order: 0
   key: Home
+banner: /static/img/fpo.jpg
 ---
 ## Welcome
 
