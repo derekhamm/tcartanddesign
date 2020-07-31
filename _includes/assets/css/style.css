@@ -38,6 +38,15 @@ header em, nav, .content, small, form, .projects-list, .posts-list {
 	grid-column: 2 / span 12;
 }
 
+.banner {
+	grid-column: 1 / span 14;
+	height: 15em;
+	object-fit: cover;
+	object-position: center;
+	overflow: hidden;
+	margin-bottom: 2em;
+}
+
 p,
 pre,
 code {
