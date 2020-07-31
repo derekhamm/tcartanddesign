@@ -57,6 +57,6 @@ collections:
     files:
       - label: "Home"
         name: "home"
-        file: "/"
+        file: "pages/home.md"
         fields:
           - { label: "Banner", name: "banner", widget: "image" }
