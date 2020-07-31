@@ -41,6 +41,12 @@ collections:
   - name: "pages"
     label: "Page"
     folder: "pages"
+    files:
+      - label: "Home Page"
+        name: "home"
+        file: "pages/home.md"
+        fields:
+          - { label: "Banner", name: "banner", widget: "image" }
     create: true # Change to true to allow editors to create new pages
     slug: "{{slug}}"
     fields:
@@ -54,9 +60,3 @@ collections:
           - { label: "Key", name: "key", widget: "string" }
           - { label: "Order", name: "order", widget: "number", default: 0 }
       - { label: "Body", name: "body", widget: "markdown" }
-    files:
-      - label: "Home Page"
-        name: "home"
-        file: "content/home.md"
-        fields:
-          - { label: "Banner", name: "banner", widget: "image" }
