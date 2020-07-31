@@ -45,7 +45,7 @@ collections:
       - name: "home"
         label: "Home"
         delete: false
-        file: "src/home.md"
+        file: "src/pages/home.md"
         slug: "{{slug}}"
         fields:
           - { label: "Banner", name: "banner", widget: "image" }
