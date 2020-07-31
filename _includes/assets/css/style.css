@@ -27,9 +27,9 @@ body {
 header, main, footer {
 	display: grid;
 	grid-template-columns: 
-		1fr
-		repeat(12,minmax(.3em,2em))
-		1fr
+		minmax(1em,1fr)
+		repeat(12,minmax(.3em,1.8em))
+		minmax(1em,1fr)
 		;
 	grid-column-gap: 1.5em;
 }
@@ -61,7 +61,7 @@ img {
 header,
 main,
 footer {
-	padding: 1em;
+	padding: 1em 0;
 }
 
 main {
