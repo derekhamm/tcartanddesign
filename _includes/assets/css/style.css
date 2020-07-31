@@ -64,6 +64,11 @@ footer {
 	padding: 1em 0;
 }
 
+.banner {
+	background-position: center center;
+	background-size: cover;
+}
+
 main {
 	padding-bottom: 2em;
 }
@@ -135,6 +140,10 @@ article {
 main > section > article > * {
 	margin-top: 0;
 	margin-bottom: .5em;
+}
+
+main img {
+	padding: 1em 0;
 }
 
 /* Post Tags */
