@@ -2,6 +2,7 @@
 	--text: dimgray;
 	--primary: black;
 	--secondary: #ffdd74;
+	--light: lightgray;
 	--background: white;
 }
 
@@ -212,18 +213,24 @@ button {
 
 input,
 textarea {
-	border: 1px solid black;
+	border: 1px solid var(--light);
 }
 
 button {
-	border: 1px solid var(--primary);
-	background-color: var(--primary);
-	color: var(--secondary);
+	border: 1px solid var(--secondary);
+	background-color: var(--secondary);
+	color: var(--primary);
 	cursor: pointer;
 }
 
+button:hover {
+	border: 1px solid var(--primary);
+	background-color: var(--primary);
+	color: var(--secondary);
+}
+
 footer {
-	background: var(--secondary);
+	background: var(--light);
 }
 
 @media screen and (min-width:768px) {
