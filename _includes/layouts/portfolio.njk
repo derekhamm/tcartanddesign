@@ -3,10 +3,9 @@ layout: layouts/base.njk
 section: portfolio
 permalink: /portfolio/index.html
 ---
-<div class="content">
+
 <h1>{{ title }}</h1>
 {{ layoutContent | safe }}
-</div>
 
 {% set projectslist = collections.project %}
 {% include "components/projectslist.njk" %}
