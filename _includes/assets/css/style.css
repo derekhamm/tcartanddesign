@@ -34,7 +34,7 @@ header, main, footer, .banner {
 	grid-column-gap: 3%;
 }
 
-header em, nav, .content, small, form, .projects-list, .posts-list {
+.logo, nav, .content, small, form, .projects-list, .posts-list {
 	grid-column: 2 / span 12;
 }
 
@@ -105,7 +105,7 @@ pre {
 }
 
 /* Header Logo (style as h2) */
-header > em {
+header em {
 	display: block;
 	font-size: 2em;
 	margin: .67em 0;
