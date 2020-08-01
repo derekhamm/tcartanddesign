@@ -44,7 +44,7 @@ header, main, footer, .banner {
 	object-fit: cover;
 	object-position: center;
 	overflow: hidden;
-	margin-bottom: 1em;
+	margin: 1em 0;
 }
 
 p,
@@ -102,6 +102,13 @@ pre {
 	hyphens: none;
 	padding: 1em;
 	margin: .5em 0;
+}
+
+.logo img {
+	max-width: 3em;
+	float: left;
+	margin-top: 1em;
+	margin-right: 1em;
 }
 
 /* Header Logo (style as h2) */
