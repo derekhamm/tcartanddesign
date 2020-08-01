@@ -34,7 +34,7 @@ header, main, footer, .banner {
 	grid-column-gap: 3%;
 }
 
-.logo, nav, article, small, form, .projects-list, .posts-list {
+.logo, nav, .content, small, form, .projects-list, .posts-list {
 	grid-column: 2 / span 12;
 }
 
