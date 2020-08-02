@@ -1,5 +1,5 @@
 {
-  "name": "dkhm-eleventy-netlifycms",
+  "name": "tcartanddesign",
   "version": "1.0.0",
   "description": "A boilerplate for building a fast static website with the Eleventy static site generator, for deployment to Netlify.",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/derekhamm/dkhm-eleventy-netlifycms"
+    "url": "https://github.com/derekhamm/tcartanddesign"
   },
   "author": {
     "name": "Derek Hamm",
