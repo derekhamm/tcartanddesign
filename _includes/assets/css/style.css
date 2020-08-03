@@ -2,6 +2,7 @@
 	--text: #222222;
 	--primary: #0071ce;
 	--secondary: #d7a461;
+	--light: #bbbbbb;
 	--background: white;
 	--serif: freight-text-pro, serif;
 	--sans: sofia-pro, sans-serif;
@@ -114,6 +115,11 @@ pre {
 	margin: .5em 0;
 }
 
+time {
+	font-family: var(--mono);
+	color: var(--light);
+}
+
 .logo img {
 	max-width: 3em;
 	float: left;
@@ -124,15 +130,15 @@ pre {
 /* Header Logo (style as h2) */
 header em {
 	display: block;
-	font-size: 1.2em;
-	margin: 1em 0;
+	font-size: 1em;
+	margin: 1.33em 0;
 	font-family: var(--logo);
 	font-style: normal;
 	font-weight: 400;
 	text-transform: uppercase;
 	letter-spacing: 4px;
 	line-height: 1.2;
-	max-width: 16em;
+	max-width: 13em;
 }
 
 /* Header Nav */
@@ -229,7 +235,7 @@ button {
 
 input,
 textarea {
-	border: 1px solid var(--text);
+	border: 1px solid var(--light);
 }
 
 button {
@@ -247,6 +253,7 @@ button:hover {
 
 footer {
 	background: var(--primary);
+	color: var(--light);
 }
 
 footer a[href], footer a[href]:visited {
